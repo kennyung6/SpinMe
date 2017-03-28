@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinMe</string>
+    <string name="spin_text">Display selected option on Button Click</string>
+    <string name="btn_txt">Activity A Button</string>
+    
+    <string-array name="spinner_options">
+        <item>Lagos</item>
+        <item>Ibadan</item>
+        <item>Anambra</item>
+        <item>Abuja</item>
+        <item>Portharcourt</item>
+    </string-array>
+</resources>
